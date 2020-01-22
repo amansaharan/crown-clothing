@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  width: 100%;
+  background-color: lightgray;
+}
+.options {
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  .option {
+    padding: 10px 15px;
+  }
+}
